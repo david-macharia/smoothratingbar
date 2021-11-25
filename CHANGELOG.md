@@ -1,3 +1,6 @@
+## [1.1.0+2] - 25/11/2021
+### Upgraded to flutter 2.0
+
 ## [1.0.4+2] - 29/12/2019
 ### Bug fixed for issue #19 (Another exception was thrown: 'package:flutter/src/rendering/wrap.dart': Failed assertion: line 122 pos 15: 'spacing != null': is not true.)
 
